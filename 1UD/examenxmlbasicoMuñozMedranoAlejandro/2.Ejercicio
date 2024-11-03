@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Aqui tenemos la receta de cocina del restaurante su plato especial: Sopa de cebolla -->
+<recetas>
+    <receta>
+        <nombre-del-plato>Sopa de cebolla</nombre-del-plato>
+        <comensales>4 personas</comensales>
+  
+<!-- Aqui tenemos los ingredientes para preparar la sopa de cebolla del restaurante -->
+        <ingredientes>
+            <ingrediente cantidad="1KG">Cebollas</ingrediente>
+            <ingrediente cantidad="2L">Caldo de carne</ingrediente>
+            <ingrediente cantidad="100gr">Mantequilla</ingrediente>
+            <ingrediente cantidad="1 cucharada">Harina</ingrediente>
+            <ingrediente cantidad="100gr">Queso emmental suizo o gruyere rallado</ingrediente>
+            <ingrediente cantidad="a elecion del comensal">Pan tostado en rebanadas</ingrediente>
+            <ingrediente cantidad="a elecion del comensal">Tomillo</ingrediente>
+            <ingrediente cantidad="1 hoja">Laurel</ingrediente>
+            <ingrediente cantidad="a elecion del comensal">Pimienta</ingrediente>
+        </ingredientes>
+
+<!-- Aqui tenemos los pasos a seguir para preparar la sopa de cebolla del restaurante-->
+        <pasos-a-seguir>
+                <paso numero="primer paso">Pelar y partir las cebollas en rodajas finas.</paso>
+                <paso numero="segundo paso">Rehogar las cebollas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse.</paso>
+                <paso numero="tercer paso">Añadir la harina sin dejar de remover.</paso>
+                <paso numero="cuarto paso">Poner la mezcla en una cazuela con el caldo, el tomillo, y el laurel.</paso>
+                <paso numero="quinto paso">Dejar cocer a fuego lento durante unos 15 minutos.</paso>
+                <paso numero="sexto paso">Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.</paso>
+        </pasos-a-seguir>
+    </receta>
+</recetas>

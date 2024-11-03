@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hechos>
+  <hecho>
+    <deporte>Fútbol</deporte>
+    <evento>Primera Copa Mundial de la FIFA</evento>
+    <fecha>1930-07-30</fecha>
+    <pais>Uruguay</pais>
+    <campeon>Uruguay</campeon>
+  </hecho>
+  <hecho>
+    <deporte>Fútbol</deporte>
+    <evento>Pelé gana su tercer Mundial</evento>
+    <fecha>1970-06-21</fecha>
+    <pais>México</pais>
+    <campeon>Brasil</campeon>
+  </hecho>
+  <hecho>
+    <deporte>Fútbol</deporte>
+    <evento>Maradona anota "La Mano de Dios"</evento>
+    <fecha>1986-06-22</fecha>
+    <pais>México</pais>
+    <equipo>Argentina</equipo>
+    <jugador>Diego Maradona</jugador>
+  </hecho>
+</hechos>

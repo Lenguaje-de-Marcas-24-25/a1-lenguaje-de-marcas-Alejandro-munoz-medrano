@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Carta del restaurante "Grande es el Capitán" -->
+<carta nombreRestaurante="Grande es el Capitán">
+    <contacto>
+        <telefono>678123456</telefono>
+        <telefono>957224466</telefono>
+        <telefono>957987654</telefono>
+    </contacto>
+
+    <platos>
+        <plato tipo="primer plato">
+            <nombre>Croquetas de jamón ibérico</nombre>
+            <alergenos>
+                <alergeno>Gluten</alergeno>
+                <alergeno>Huevos</alergeno>
+                <alergeno>Lácteos</alergeno>
+            </alergenos>
+            <precios>
+                <precio tipo="media ración">8</precio>
+                <precio tipo="ración">11</precio>
+            </precios>
+            <valorEnergetico>149 Kcal (1 croqueta, 85 gramos)</valorEnergetico>
+        </plato>
+
+        <plato tipo="segundo plato">
+            <nombre>Gazpacho andaluz</nombre>
+            <alergenos>
+                <alergeno>Gluten</alergeno>
+            </alergenos>
+            <precios>
+                <precio tipo="vaso 250 ml">4</precio>
+            </precios>
+            <valorEnergetico>63 Kcal (100 gramos)</valorEnergetico>
+            <!-- Este elemento está vacío -->
+            <observaciones></observaciones>
+        </plato>
+
+        <plato tipo="tercer plato">
+            <nombre>Rabo de toro</nombre>
+            <alergenos>
+                <alergeno>Gluten</alergeno>
+                <alergeno>Lácteos</alergeno>
+                <alergeno>Sulfitos</alergeno>
+            </alergenos>
+            <valorEnergetico>217 Kcal (100 gramos)</valorEnergetico>
+        </plato>
+    </platos>
+</carta>

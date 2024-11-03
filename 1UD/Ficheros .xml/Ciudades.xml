@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+  <ciudad continente="Europa">
+    <nombre>París</nombre>
+    <pais>Francia</pais>
+  </ciudad>
+  <ciudad continente="América">
+    <nombre>Nueva York</nombre>
+    <pais>Estados Unidos</pais>
+  </ciudad>
+  <ciudad continente="Asia">
+    <nombre>Tokio</nombre>
+    <pais>Japón</pais>
+  </ciudad>
+  <ciudad continente="África">
+    <nombre>El Cairo</nombre>
+    <pais>Egipto</pais>
+  </ciudad>
+  <ciudad continente="Oceanía">
+    <nombre>Sydney</nombre>
+    <pais>Australia</pais>
+  </ciudad>
+</ciudades>

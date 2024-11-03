@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pedidos>
+  <pedido>
+    <cliente>Juan Pérez</cliente>
+    <fecha>2023-11-22</fecha>
+    <total>150.50</total>
+  </pedido>
+  <pedido>
+    <cliente>María López</cliente>
+    <fecha>2023-12-05</fecha>
+    <total>89.99</total>
+  </pedido>
+  <pedido>
+    <cliente>Pedro Gómez</cliente>
+    <fecha>2024-01-10</fecha>
+    <total>220.35</total>
+  </pedido>
+  <pedido>
+    <cliente>Ana Rodríguez</cliente>
+    <fecha>2023-11-28</fecha>
+    <total>105.75</total>
+  </pedido>
+  <pedido>
+    <cliente>Luis Martínez</cliente>
+    <fecha>2023-12-15</fecha>
+    <total>187.20</total>
+  </pedido>
+</pedidos>

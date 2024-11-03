@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Aqui tendremos una agenda con nombres, direcciones y telefonos -->
+<agenda>
+    <datos-personales>
+        <nombre>Alejandro</nombre>
+        <apellido>Muñoz</apellido>
+        <direccion>
+            <calle>Avenida de barcelona N4</calle>
+            <ciudad>Cordoba</ciudad>
+            <codigoPostal>14004</codigoPostal>
+        </direccion>
+        <telefonos>
+            <telefono tipo="casa">611768992</telefono>
+            <telefono tipo="móvil">632456578</telefono>
+            <telefono tipo="trabajo">623765829</telefono>
+        </telefonos>
+    </datos-personales>
+    <!-- Aqui tendremos los datos de la siguiente persona-->
+
+    <datos-personales>
+        <nombre>Juana</nombre>
+        <apellido>Muñoz</apellido>
+        <direccion>
+            <calle>Avenida de andalucia</calle>
+            <ciudad>Jaen</ciudad>
+            <codigoPostal>23300</codigoPostal>
+        </direccion>
+        <telefonos>
+            <telefono tipo="casa">686534726</telefono>
+            <telefono tipo="móvil">697625345</telefono>
+            <telefono tipo="trabajo">681924538</telefono>
+        </telefonos>
+    </datos-personales>
+    <!-- Aqui tendremos los datos de la ultima persona de la agenda -->
+
+    <datos-personales>
+        <nombre>Miguel</nombre>
+        <apellido>Fernández</apellido>
+        <direccion>
+            <calle>Avenida de andalucia</calle>
+            <ciudad>Jaen</ciudad>
+            <codigoPostal>23300</codigoPostal>
+        </direccion>
+        <telefonos>
+            <telefono tipo="móvil">985672836</telefono>
+            <telefono tipo="trabajo">928547287</telefono>
+            <!-- Este contacto no tiene teléfono movil -->
+        </telefonos>
+    </datos-personales>
+</agenda>
