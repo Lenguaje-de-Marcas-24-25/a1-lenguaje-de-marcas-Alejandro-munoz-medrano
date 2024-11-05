@@ -1,0 +1,61 @@
+/* Estilos generales de la tabla */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    border: 3px solid #333;
+}
+
+td, th {
+    border: 1px solid #666;
+    padding: 8px;
+}
+
+/* Estilos de encabezados y recreo */
+.recreo {
+    background-color: #f0f0f0;
+    font-weight: bold;
+    color: #555;
+}
+
+/* Texto de los nombres de los profesores */
+.profesor {
+    font-size: 0.85em;
+    color: #555;
+}
+
+/* Colores de cada módulo */
+.modulo.badat {
+    background-color: #f7d6e0;
+}
+.modulo.lmsgi {
+    background-color: #d6eaf8;
+}
+.modulo.daspgs {
+    background-color: #f9e79f;
+}
+.modulo.sasp {
+    background-color: #d5f5e3;
+}
+.modulo.siinf {
+    background-color: #aed6f1;
+}
+.modulo.progr {
+    background-color: #f5b7b1;
+}
+.modulo.endes {
+    background-color: #d2b4de;
+}
+.modulo.ipe {
+    background-color: #f9e79f;
+}
+.modulo.tutoria, .modulo.tutoria-dual {
+    background-color: #f0f3f4;
+}
+
+/* Tipo de letra y alineación de título */
+body {
+    font-family: Arial, sans-serif;
+}
