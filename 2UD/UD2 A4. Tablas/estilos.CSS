@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 10px;
+}
+
+th {
+    background-color: #2E7D32;
+    color: white;
+}
+
+/* Colores para cada módulo */
+.badat {
+    background-color: #FFD966;
+}
+
+.lmsgi {
+    background-color: #A9D08E;
+}
+
+.endes {
+    background-color: #8FAADC;
+}
+
+.progr {
+    background-color: #F4B183;
+}
+
+.daspgs {
+    background-color: #FFB6C1;
+}
+
+.sasp {
+    background-color: #C4B7E7;
+}
+
+.siinf {
+    background-color: #FF7F50;
+}
+
+.ipe {
+    background-color: #FFCC99;
+}
+
+.recreo {
+    background-color: #572364;
+}
