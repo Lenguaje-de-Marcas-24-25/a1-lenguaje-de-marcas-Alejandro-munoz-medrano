@@ -1,0 +1,45 @@
+/* Estilo para el encabezado <h1> */
+h1 {
+    color: blue;
+}
+
+/* Estilo para los elementos con clase .subtitulo */
+.subtitulo {
+    color: red;
+}
+
+/* Estilo para el elemento con id #contenedor */
+#contenedor {
+    border: 1px solid black;
+}
+
+/* Estilo global para eliminar márgenes y relleno */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilo para los enlaces <a> con atributo href */
+a[href] {
+    color: purple;
+}
+
+/* Estilo para los párrafos <p> descendientes de un <div> */
+div p {
+    color: orange;
+}
+
+/* Estilo para los <li> que son hijos directos de <ul> */
+ul > li {
+    list-style-type: square;
+}
+
+/* Estilo para el primer <h2> inmediatamente después de un <h1> */
+h1 + h2 {
+    color: pink;
+}
+
+/* Estilo para todos los <h2> hermanos de un <h1> */
+h1 ~ h2 {
+    color: cyan;
+}
